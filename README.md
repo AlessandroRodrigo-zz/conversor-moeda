@@ -1,6 +1,8 @@
-# Quasar App (conversor-moeda)
+# Conversor de moedas
+### Conversor baseado em BRL
 
-A Quasar Framework app
+Imagem do sistema
+![](src/assets/screenshot-rocks.png)
 
 ## Install the dependencies
 ```bash
